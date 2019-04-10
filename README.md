@@ -1,4 +1,8 @@
 ## ATAC_mito_sc pipeline
+ 
+#### This code is associated with the paper from Xu et al., "Single-cell lineage tracing by endogenous mutations enriched in transposase accessible mitochondrial DNA". eLife, 2019. http://dx.doi.org/10.7554/eLife.45105
+
+
 Version: 1
 
 Description: This repository contains a pipeline to process scATACseq data.  It combines the previous Jason's scATAC pipeline and a mitochondrial SNV calling process. The major changes is the mapping step is changed from bowtie2 to bwa 
